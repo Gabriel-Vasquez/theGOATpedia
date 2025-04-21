@@ -1,2 +1,5 @@
 question,category,tags
 Who is the GOAT of prestidigitation?,Artisans,magic,illusion
+Who is the GOAT of goat breeding?,Agriculture,goats,animals
+Who is the GOAT of surviving bad luck?,History,survival,luck
+pip install openai pandas
